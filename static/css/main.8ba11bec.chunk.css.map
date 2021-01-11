@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.scss"],"names":[],"mappings":"AACA,KACE,wBAAyB,CAC1B,QAGC,cAAe,CAChB,YAGC,cAAe","file":"main.8ba11bec.chunk.css","sourcesContent":["// styles go here\nbody {\n  background-color: #f4f5e2;\n}\n\n.header {\n  font-size: 64px;\n}\n\n.expression {\n  font-size: 32px;\n}\n"]}
